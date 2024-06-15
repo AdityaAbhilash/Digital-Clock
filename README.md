@@ -28,7 +28,8 @@ The Digital Clock project showcases various functionalities by leveraging the Ba
 
 ## Source Code
 
-The source files containing the actual code for this project can be found [](#). 
+The source files containing the actual code for this project can be found here [link]((https://github.com/AdityaAbhilash/Digital-Clock/tree/main/project_2.srcs/sources_1/new).
+). 
 
 ## Tools Used
 
